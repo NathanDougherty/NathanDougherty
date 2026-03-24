@@ -2,8 +2,8 @@
 # Hey, I'm Nate 
 
 ## About Me
-- Currently @ **Flow Traders**
-- Studying **CS & Finance** @ **Northeastern University**
+- Currently at **Flow Traders**
+- Studying **CS & Finance** at **Northeastern University**
 - Passionate about math, software, and markets
 
 ## Tech
