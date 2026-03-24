@@ -1,7 +1,7 @@
 
-# Hey, I'm Nate 👋
+# Hey, I'm Nate
 
 ## About Me
-- SWE Intern (Trading Ops) @ **Flow Traders**
-- Studying **CS & Finance** @ **Northeastern University**
-- I like building things that are fast, reliable, and scale
+- Currently at **Flow Traders**
+- Studying **CS & Finance** at **Northeastern University**
+- Passionate about math, software, and markets 
