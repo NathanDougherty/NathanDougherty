@@ -1,5 +1,5 @@
 
-# Hey, I'm Nate 👋
+# Hey, I'm Nate 
 
 ## About Me
 - Currently @ **Flow Traders**
