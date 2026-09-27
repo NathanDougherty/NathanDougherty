@@ -2,8 +2,7 @@
 # Hey, I'm Nate 
 
 ## About Me
-- Currently at **RA Capital Management** 
-- Previously at **Flow Traders**
+- Previously at **Flow Traders**, **RA Capital Management** 
 - Studying **CS & Finance** at **Northeastern University**
 - Passionate about math, software, and markets
 
